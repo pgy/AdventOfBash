@@ -4,8 +4,8 @@
 
 ### Code
 
-See notebook.ipynb on [github](https://github.com/pgy/AdventOfBash/blob/master/README.ipynb)
-or on [nbviewer](https://nbviewer.jupyter.org/github/pgy/AdventOfBash/blob/master/notebook.ipynb) (preferred).
+See notebook.ipynb on [github](https://github.com/pgy/AdventOfBash/blob/master/notebook.ipynb)
+or on [nbviewer](https://nbviewer.jupyter.org/github/pgy/AdventOfBash/blob/master/notebook.ipynb) (currently returns 404 for some reason).
 
 ### License
 
